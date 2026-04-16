@@ -1,7 +1,7 @@
 # aOPIT: A Simple but Effective Sparse Subspace Tracking Method Using Alpha Divergence
 Subspace tracking is a fundamental problem in signal processing, where the goal is to estimate and track the underlying subspace that spans a sequence of data streams over time. In high-dimensional settings, data samples are often corrupted by non-Gaussian noises and may exhibit sparsity. This paper explores the alpha divergence for sparse subspace estimation and tracking, offering robustness to data corruption. 
 
-The proposed algorithm, termed aOPIT, is a robust variant of our OPIT method (Thanh et al., IEEE TSP 2024) using alpha divergence. aOPIT outperforms the state-of-the-art robust subspace tracking methods while achieving a low computational complexity and memory storage. 
+The proposed algorithm, termed aOPIT, is a robust variant of our OPIT method [(Thanh et al., IEEE TSP 2024)](https://ieeexplore.ieee.org/document/10379829) using alpha divergence. aOPIT outperforms the state-of-the-art robust subspace tracking methods while achieving a low computational complexity and memory storage. 
 
 
 ## Demo
