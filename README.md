@@ -11,4 +11,4 @@ Please run
 ## Reference
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, L.T. Thanh. "[*Robust Sparse Subspace Tracking from Corrupted Data Observations*](https://ieeexplore.ieee.org/document/11231466)". **Proc.  IEEE ISCIT**, 2025. 
+[1] T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, **L.T. Thanh**. "[*Robust Sparse Subspace Tracking from Corrupted Data Observations*](https://ieeexplore.ieee.org/document/11231466)". **Proc.  IEEE ISCIT**, 2025. 
