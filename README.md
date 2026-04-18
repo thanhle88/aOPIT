@@ -6,7 +6,7 @@ The proposed algorithm, termed aOPIT, is a robust variant of our OPIT method [(T
 
 ## Demo
 Please run 
-+ `test_alpha_OPIT.m`: To illustrate the performance of aOPIT in comparsion with [aFAPI](https://ieeexplore.ieee.org/document/10094931) and [OPIT](https://ieeexplore.ieee.org/document/10379829).
++ `test_alpha_OPIT.m`: To illustrate the performance of aOPIT in comparsion with two SOTA algorithms, including [aFAPI](https://ieeexplore.ieee.org/document/10094931) and [OPIT](https://ieeexplore.ieee.org/document/10379829).
 
 ## Reference
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
